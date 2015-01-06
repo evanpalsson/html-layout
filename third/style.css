@@ -1,0 +1,51 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.slice {
+	height: 15%;
+	width: 100%;
+}
+
+.header {
+	height: 15%;
+	width: 100%;
+	background-color: rgba(216, 216, 216, 1);
+}
+
+.box {
+	background-color: rgba(74, 144, 226, 1);
+	z-index: 50;
+  	top: 4%;
+  	position: absolute;
+  	left: 2%;
+  	width: 60px;
+  	height: 60px;
+}
+
+.pirates {
+	height: 25%;
+	width: 95%;
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 5%;
+	background-color: rgba(255, 255, 255, 1);
+}
+
+.blue {
+	background-color: rgba(74, 144, 226, 1);
+}
+
+.aqua {
+	background-color: rgba(80, 227, 193, 1);
+}
+
+.pea {
+	background-color: rgba(184, 233, 134, 1);
+}
+
+.yellow {
+	background-color: rgba(248, 231, 29, 1);
+}

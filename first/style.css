@@ -1,0 +1,23 @@
+html, body {
+	height: 100%;
+	background-color: rgba(216, 216, 216, 1);
+}
+
+#header {
+	height: 15%;
+	background-color: rgba(68, 68, 68, 1);
+}
+
+.body {
+	height: 75%;
+	background-color: rgba(239, 239, 239, 1);
+	margin-left: 14%;
+	margin-right: 14%;
+}
+
+#footer {
+	height: 10%;
+	background-color: rgba(34, 34, 34, 1);
+	margin-left: 14%;
+	margin-right: 14%;
+}

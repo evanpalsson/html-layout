@@ -1,0 +1,41 @@
+html, body {
+	height: 100%;
+	float: auto;
+}
+
+
+.left {
+	background-color: rgba(74, 144, 226, 1);
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+.middle {
+	background-color: rgba(80, 227,193,1);
+	width: 34%;
+	height: 100%;
+	float: left;
+}
+
+.right {
+	background-color: rgba(184, 233, 134, 1);
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+.top {
+	height: 65%;
+}
+
+.bottom {
+	height: 35%;
+	background-color: rgba(0, 21, 63, 1);
+}
+
+img {
+	max-height: 100%;
+	max-width: absolute;
+	position: inherit;
+}
